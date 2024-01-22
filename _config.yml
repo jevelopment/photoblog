@@ -32,14 +32,14 @@ comments :
     short_name : ""
 
 # Internal nav
-#nav:
-#  - GALLERY: "https://jevelopment.github.io/photoblog/gallery/"  
-#  - JOURNAL: "https://jevelopment.github.io/photoblog/journal/"
-#  - ABOUT: "https://jevelopment.github.io/photoblog/about/"
 nav:
-  - LISTINGS: "/photoblog/gallery/"
-  - JOURNAL: "/photoblog/journal/"
-  - ABOUT: "/photoblog/about/"
+  - LISTINGS: "https://jevelopment.github.io/photoblog/gallery/"  
+  - DESCRIPTIONS: "https://jevelopment.github.io/photoblog/journal/"
+  - ABOUT: "https://jevelopment.github.io/photoblog/about/"
+#nav:
+#  - LISTINGS: "/photoblog/gallery/"
+#  - JOURNAL: "/photoblog/journal/"
+#  - ABOUT: "/photoblog/about/"
 
 # All translation keys
 translations:
